@@ -40,7 +40,7 @@ I'm a <b>Software Engineering Technology</b> student at <b>IPB University</b> wi
 <br><br>
 - <b>Current Projects:</b> Developing <b>SIJALA BLUD UPTD Raja Ampat</b>, <b>KosFlow</b>, and <b>SMART Marketplace</b>.<br>
 - <b>Hackathons:</b> Participant of <b>Garuda Hacks 5.0 & 6.0</b>.<br>
-- <b>Featured Work:</b> Check out <b>KKP Raja Ampat Landing</b> on my <a href="https://devpost.com/hakkam123">Devpost</a>.<br>
+- <b>Featured Work:</b> Check out <b>KKP Raja Ampat Landing</b> on my <a href="kkp-rajaampat.netlify.app"></a>.<br>
 - <b>Learning & Interest:</b> Currently diving deep into <b>Data Analysis</b>, <b>Data Science</b>, and mastering <b>Python MLOps</b>.
 </p>
 
