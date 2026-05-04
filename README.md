@@ -31,24 +31,24 @@
 <br/>
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
 <p align="left">
 I'm a <b>Software Engineering Technology</b> student at <b>IPB University</b> with a deep passion for <b>Data Science</b> and <b>Data Analytics</b>. I enjoy transforming complex datasets into actionable insights and building scalable systems to solve real-world problems.
 <br><br>
-- 🔭 <b>Current Projects:</b> Developing <b>SIJALA BLUD UPTD Raja Ampat</b>, <b>KosFlow</b>, and <b>SMART Marketplace</b>.<br>
-- 🏆 <b>Hackathons:</b> Participant of <b>Garuda Hacks 5.0 & 6.0</b>.<br>
-- 🚀 <b>Featured Work:</b> Check out <b>Maru App</b> and <b>Giziku</b> on my <a href="https://devpost.com/hakkam123">Devpost</a>.<br>
-- 📚 <b>Learning & Interest:</b> Currently diving deep into <b>Data Analysis</b>, <b>Data Science</b>, and mastering <b>Python MLOps</b>.
+- <b>Current Projects:</b> Developing <b>SIJALA BLUD UPTD Raja Ampat</b>, <b>KosFlow</b>, and <b>SMART Marketplace</b>.<br>
+- <b>Hackathons:</b> Participant of <b>Garuda Hacks 5.0 & 6.0</b>.<br>
+- <b>Featured Work:</b> Check out <b>KKP Raja Ampat Landing</b> on my <a href="https://devpost.com/hakkam123">Devpost</a>.<br>
+- <b>Learning & Interest:</b> Currently diving deep into <b>Data Analysis</b>, <b>Data Science</b>, and mastering <b>Python MLOps</b>.
 </p>
 
 ###
 
-<h3 align="left">🛠 Skills</h3>
+<h3 align="left">Skills</h3>
 
-#### 🤝 Soft Skills
+#### Soft Skills
 - **Leadership:** Team Leadership, Cross-functional Collaboration, and Professional Responsibility.
 - **Management:** Project Management, Time Management, and High Attention to Detail.
 - **Analytical:** Critical Thinking, Creative Problem Solving, and Adaptability.
@@ -56,7 +56,7 @@ I'm a <b>Software Engineering Technology</b> student at <b>IPB University</b> wi
 
 ###
 
-<h3 align="left">🚀 Tech Stack</h3>
+<h3 align="left">Tech Stack</h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -101,7 +101,7 @@ I'm a <b>Software Engineering Technology</b> student at <b>IPB University</b> wi
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="left">My Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hakkam123&show_icons=true&theme=dark" alt="stats" />
