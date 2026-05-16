@@ -10,7 +10,6 @@
 
 <p align="center">
   Passionate about building clean, scalable, and user-focused web applications.
-  Currently exploring **Go** and **Node.js** to strengthen my backend development skills.
 </p>
 
 <div align="center">
